@@ -14,7 +14,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Welcome to Astronauts App").foregroundColor(Color.blue)
+            Text("Welcome to Astronauts App").foregroundColor(Color.black)
         }
         .padding()
     }
